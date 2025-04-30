@@ -55,11 +55,11 @@ I'm really interested in full-stack development.
     />
     <img 
     align="left" 
-    alt="Postgresql"
-    title="Postgresql" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" 
     />
    <img 
     align="left" 
