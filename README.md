@@ -1,9 +1,9 @@
-## Hi there, I am Murilo 👋 ##
+## Hi there, I am <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="murilo-pysklewitz-fuzikawa-5454412a3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/murilo-pysklewitz-fuzikawa-5454412a3?trk=profile-badge">Murilo Fuzikawa</a></div> 👋 ##
 
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="murilo-pysklewitz-fuzikawa-5454412a3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/murilo-pysklewitz-fuzikawa-5454412a3?trk=profile-badge">Murilo Pysklewitz Fuzikawa</a></div>
+
               
 
 I'm currently studying Computer Science. 
