@@ -82,7 +82,7 @@ I'm really interested in full-stack development.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 stats
 
 <p>
   <img 
