@@ -88,7 +88,7 @@ I'm really interested in full-stack development.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="130" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MFuzikawa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
@@ -96,7 +96,7 @@ I'm really interested in full-stack development.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="130" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFuzikawa&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
