@@ -3,7 +3,7 @@
 I'm currently studying Computer Science. 
 I'm really interested in full-stack development.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and technologies I'm learning
 
 <img 
     align="left" 
@@ -51,9 +51,33 @@ I'm really interested in full-stack development.
     title="Postgresql" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    />
+    <img 
+    align="left" 
+    alt="Postgresql"
+    title="Postgresql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    />
+   <img 
+    align="left" 
+    alt="Mongodb"
+    title="Mongodb" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+    />
+       <img 
+    align="left" 
+    alt="Mongodb"
+    title="Mongodb" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    />
+
 
 <br/>
 <br/>
