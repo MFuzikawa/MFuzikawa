@@ -7,7 +7,7 @@
               
 
 I'm currently studying Computer Science. 
-I'm really interested in full-stack development.
+I'm really interested in learn new techs.
 
 ### 🤖 Languages and technologies I'm learning
 
