@@ -81,7 +81,6 @@ I'm really interested in learn new techs.
 <br/>
 
 ### 📊 stats
-<p><img width="45%" height="160emm" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MFuzikawa&theme=tokyonigh)](https://git.io/streak-stats"/></p>
 <p>
   <img 
     align="left" 
