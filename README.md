@@ -7,7 +7,7 @@
               
 
 I'm currently studying Computer Science. 
-I'm really interested in learn new techs.
+I'm really interested in learn Back-end delopment with Typescript.
 
 ### 🤖 Languages and technologies I'm learning
 
