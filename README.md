@@ -59,22 +59,6 @@ I'm really interested in learn Back-end delopment with Typescript.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" 
     />
-   <img 
-    align="left" 
-    alt="Mongodb"
-    title="Mongodb" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-    />
-       <img 
-    align="left" 
-    alt="Mongodb"
-    title="Mongodb" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-    />
 
 
 <br/>
