@@ -82,13 +82,7 @@ I'm really interested in learn new techs.
 
 ### 📊 stats
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MFuzikawa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+
 
 <img 
       align="left" 
