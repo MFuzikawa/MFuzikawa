@@ -1,18 +1,7 @@
 
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFuzikawa&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
-  />
-
-</p>
-
 # Hi there, I'm Murilo Fuzikawa 👋
 
-🎓 Estudante de TI | Apaixonado por Java, APIs e bancos de dados | Transformando ideias em código
+
 
 ---
 
