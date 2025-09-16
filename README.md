@@ -17,7 +17,6 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, 
 ---
 
 ## 📊 Estatísticas
-![MFuzikawa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MFuzikawa&theme=monokai&hide_border=true)
 ![MFuzikawa's Stats](https://github-readme-stats.vercel.app/api?username=MFuzikawa&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
 ---
