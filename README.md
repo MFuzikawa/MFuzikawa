@@ -17,7 +17,7 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, 
 ---
 
 ## 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFuzikawa&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFuzikawa&show_icons=true&theme=merko)
 
 ---
 
