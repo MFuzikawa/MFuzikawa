@@ -17,7 +17,8 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, 
 ---
 
 ## 📊 Estatísticas
-https://pixel-profile.vercel.app/api/github-stats?username=MFuzikawa&theme=journey&pixelate_avatar=true
+
+https://pixel-profile.vercel.app/api/github-stats?username=MFuzikawa&theme=journey&pixelate_avatar=false
 ---
 
 ## 🔍 Sobre mim
