@@ -17,7 +17,7 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, 
 ---
 
 ## 📊 Estatísticas
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MFuzikawa&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 🔍 Sobre mim
