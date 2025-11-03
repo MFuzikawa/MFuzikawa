@@ -16,8 +16,8 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, 
 
 ## 📊 Estatísticas
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=MFuzikawa&screen_effect=true&theme=monica&pixelate_avatar=false">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=MFuzikawa>&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=murilopysklewitz&screen_effect=true&theme=monica&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=murilopysklewitz>&theme=summer">
 </picture>
 ---
 
