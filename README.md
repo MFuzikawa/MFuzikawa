@@ -1,7 +1,9 @@
 
 # Hi there, I'm Murilo Fuzikawa 👋
 
-Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, integração de sistemas e bancos de dados. Gosto de aprender na prática: construir POCs, documentar APIs (Swagger) e modelar com UML. Busco um estágio onde eu possa crescer tecnicamente e contribuir com soluções confiáveis e bem documentadas.
+Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, integração de sistemas e bancos de dados. Atualmente no 3° semestre, procurando oportunidades de estágio 
+ou júnior para aplicar o que aprendi em projetos reais e 
+continuar evoluindo como desenvolvedor.
 
 ---
 
