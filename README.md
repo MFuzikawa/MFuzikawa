@@ -25,11 +25,4 @@ JWT · BCrypt · OWASP · Pentest de redes e web · Nmap · WPScan · Metasploit
 Hardware / Maker
 C++ · Arduino · Python · MIDI/HID protocol
 
-
-
-## 🔍 Experiência
-Consultor de Segurança — Freelance (2026)
-Auditoria de segurança remunerada em infraestrutura corporativa com 200 dispositivos — pentest de rede (Samba AD, Fortigate, workstations Windows) e aplicação web (WordPress/WooCommerce). Relatório técnico com análise de vulnerabilidades e recomendações de mitigação.
-
-
               
